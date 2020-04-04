@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="GameFramework2D">
+      <UniqueIdentifier>{9f3ec04a-fea0-44d8-a86e-629feec5b7b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WinMain">
+      <UniqueIdentifier>{ce3a7470-9981-48e7-92f9-ebef140444f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{ce5b6d22-f989-4f22-81fd-803eae8974cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\GameNode">
+      <UniqueIdentifier>{e20d0b3f-3940-445e-a65d-2ffe13bcc8b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\유틸">
+      <UniqueIdentifier>{af879b23-70ee-42d9-9d44-350faa3d6f52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\매니져">
+      <UniqueIdentifier>{17f7c3ea-b2ec-4227-8115-b8ad353939d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\이미지">
+      <UniqueIdentifier>{d16fac69-192e-4230-a05f-483426615aba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>GameFramework2D\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>MainGame\GameNode</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>GameFramework2D\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>GameFramework2D\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>GameFramework2D\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>GameFramework2D\이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>GameFramework2D\매니져</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="winMain.cpp">
+      <Filter>WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>MainGame\GameNode</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>GameFramework2D\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="randomFunction.cpp">
+      <Filter>GameFramework2D\유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>GameFramework2D\이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>GameFramework2D\매니져</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

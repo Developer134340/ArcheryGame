@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  gameNode.cpp
+  image.cpp
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\image.cpp(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\image.cpp(156): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\image.cpp(204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\image.cpp(252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  imageManager.cpp
+  keyManager.cpp
+  mainGame.cpp
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\maingame.cpp(40): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\maingame.cpp(41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\maingame.cpp(108): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\maingame.cpp(111): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\maingame.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\kga_5\desktop\승진\매크로펑션 이후 코딩\양궁게임\maingame.cpp(129): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  randomFunction.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+  GameFramework2D.vcxproj -> C:\Users\KGA_5\Desktop\승진\매크로펑션 이후 코딩\양궁게임\Debug\GameFramework2D.exe
